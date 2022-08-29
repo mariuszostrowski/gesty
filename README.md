@@ -9,7 +9,7 @@ Gesty is a set of vector gesture icons useful for UI/UX designers, manuals publi
 
 ### Author
 Mariusz Ostrowski  
-E-Mail: mariusz.ostrowski@pixle.pl  
+E-Mail: mariusz.ostrowski@gmail.com  
 Twitter: [@faktory](https://twitter.com/faktory)
 
 ![](https://raw.githubusercontent.com/pixle/gesty/master/Preview/style01.png)
